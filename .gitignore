@@ -1,16 +1,17 @@
 __pycache__/
 *.pyc
-
-.ipynb_checkpoints/
 .pytest_cache/
+.ipynb_checkpoints/
 
 .vscode/
 
-data/
+.env
+
 logs/
 
-models/checkpoints/
+data/raw/
+data/processed/
 
-.env
+models/checkpoints/
 
 .DS_Store
