@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+
+.git/
+.gitignore
+
+data/
+notebooks/
+tests/
+
+logs/
+
+*.pyc
+
+.env

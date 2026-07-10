@@ -1,0 +1,913 @@
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir models
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                models                                        
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir tests
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                tests                                         
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir scripts
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                scripts                                       
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir notebooks
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                notebooks                                     
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir configs
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                configs                                       
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir logs
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System
+
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:57                logs                                          
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir data\raw
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\data
+
+Mode                 LastWriteTime         Length Name                                          
+d-----        10-07-2026     01:58                raw                                           
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir data\processed
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\data
+
+
+Mode                 LastWriteTime         Length Name                                          
+d-----        10-07-2026     01:58                processed                                     
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir models\saved_models
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\models
+
+Mode                 LastWriteTime         Length Name                                          
+d-----        10-07-2026     01:58                saved_models                                  
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir models\checkpoints
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\models
+
+
+Mode                 LastWriteTime         Length Name                                          
+d-----        10-07-2026     01:58                checkpoints                                   
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir app\api
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\app
+
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:58                api                                           
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir app\services
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\app
+
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:58                services                                      
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>mkdir app\utils
+
+
+    Directory: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease 
+    Detection System\app
+
+Mode                 LastWriteTime         Length Name                                          
+----                 -------------         ------ ----                                          
+d-----        10-07-2026     01:58                utils                                         
+
+
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>tensorflow==2.19.0
+tensorflow==2.19.0 : The term 'tensorflow==2.19.0' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
++ tensorflow==2.19.0
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (tensorflow==2.19.0:String) [], CommandNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>numpy
+numpy : The term 'numpy' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the 
+At line:1 char:1
++ numpy
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (numpy:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>pandas
+pandas : The term 'pandas' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the 
+At line:1 char:1
++ pandas
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (pandas:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>matplotlib
+matplotlib : The term 'matplotlib' is not recognized as the name of a cmdlet, function, script 
+file, or operable program. Check the spelling of the name, or if a path was included, verify 
+At line:1 char:1
++ matplotlib
++ ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (matplotlib:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>seaborn
+seaborn : The term 'seaborn' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
++ seaborn
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (seaborn:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>scikit-learn
+scikit-learn : The term 'scikit-learn' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, 
+verify that the path is correct and try again.
+At line:1 char:1
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (scikit-learn:String) [], CommandNotFoundExceptio 
+   n
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>opencv-python
+opencv-python : The term 'opencv-python' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, 
+At line:1 char:1
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (opencv-python:String) [], CommandNotFoundExcepti 
+   on
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>pillow
+pillow : The term 'pillow' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
++ pillow
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (pillow:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>fastapi
+fastapi : The term 'fastapi' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
+At line:1 char:1
++ fastapi
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (fastapi:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>u
+Usage: uvicorn [OPTIONS] APP
+Try 'uvicorn --help' for help.
+
+Error: Missing argument 'APP'.
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>python-multipart
+python-multipart : The term 'python-multipart' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:1
++ ~~~~~~~~~~~~~~~~
+   ption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>python-dotenv
+python-dotenv : The term 'python-dotenv' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, 
++ ~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (python-dotenv:String) [], CommandNotFoundExcepti 
+   on
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>pytest
+===================================== test session starts ======================================
+platform win32 -- Python 3.10.11, pytest-8.2.1, pluggy-1.6.0
+rootdir: F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System
+plugins: anyio-4.13.0, cov-5.0.0
+collected 0 items                                                                               
+
+==================================== no tests ran in 0.39s =====================================
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>j
+upyter                                                                                                 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> pip install -r requirements.txt
+Collecting tensorflow==2.19.0 (from -r requirements.txt (line 1))
+  Downloading tensorflow-2.19.0-cp310-cp310-win_amd64.whl.metadata (4.1 kB)
+Collecting numpy (from -r requirements.txt (line 2))
+  Using cached numpy-2.2.6-cp310-cp310-win_amd64.whl.metadata (60 kB)
+Collecting pandas (from -r requirements.txt (line 3))
+  Using cached pandas-2.3.3-cp310-cp310-win_amd64.whl.metadata (19 kB)
+Collecting matplotlib (from -r requirements.txt (line 4))
+  Using cached matplotlib-3.10.9-cp310-cp310-win_amd64.whl.metadata (52 kB)
+Collecting seaborn (from -r requirements.txt (line 5))
+  Using cached seaborn-0.13.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting scikit-learn (from -r requirements.txt (line 6))
+  Using cached scikit_learn-1.7.2-cp310-cp310-win_amd64.whl.metadata (11 kB)
+Collecting opencv-python (from -r requirements.txt (line 7))
+  Downloading opencv_python-5.0.0.93-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Collecting pillow (from -r requirements.txt (line 8))
+  Downloading pillow-12.3.0-cp310-cp310-win_amd64.whl.metadata (9.3 kB)
+Collecting fastapi (from -r requirements.txt (line 10))
+  Using cached fastapi-0.139.0-py3-none-any.whl.metadata (26 kB)
+Collecting uvicorn (from -r requirements.txt (line 11))
+  Downloading uvicorn-0.51.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting python-multipart (from -r requirements.txt (line 12))
+  Using cached python_multipart-0.0.32-py3-none-any.whl.metadata (2.1 kB)
+Collecting python-dotenv (from -r requirements.txt (line 14))
+  Using cached python_dotenv-1.2.2-py3-none-any.whl.metadata (27 kB)
+Collecting pytest (from -r requirements.txt (line 16))
+  Downloading pytest-9.1.1-py3-none-any.whl.metadata (7.6 kB)
+Collecting jupyter (from -r requirements.txt (line 17))
+  Using cached jupyter-1.1.1-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting absl-py>=1.0.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading absl_py-2.5.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting astunparse>=1.6.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached astunparse-1.6.3-py2.py3-none-any.whl.metadata (4.4 kB)
+Collecting flatbuffers>=24.3.25 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached flatbuffers-25.12.19-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting gast!=0.5.0,!=0.5.1,!=0.5.2,>=0.2.1 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached gast-0.7.0-py3-none-any.whl.metadata (1.5 kB)
+Collecting google-pasta>=0.1.1 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached google_pasta-0.2.0-py3-none-any.whl.metadata (814 bytes)
+Collecting libclang>=13.0.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached libclang-18.1.1-py2.py3-none-win_amd64.whl.metadata (5.3 kB)
+Collecting opt-einsum>=2.3.2 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached opt_einsum-3.4.0-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: packaging in c:\users\dell\anaconda3\envs\potato_ai\lib\site-packages (from tensorflow==2.19.0->-r requirements.txt (line 1)) (26.0)
+Collecting protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.3 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading protobuf-5.29.6-cp310-abi3-win_amd64.whl.metadata (592 bytes)
+Collecting requests<3,>=2.21.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Requirement already satisfied: setuptools in c:\users\dell\anaconda3\envs\potato_ai\lib\site-packages (from tensorflow==2.19.0->-r requirements.txt (line 1)) (82.0.1)
+Collecting six>=1.12.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting termcolor>=1.1.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached termcolor-3.3.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting typing-extensions>=3.6.6 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting wrapt>=1.11.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading wrapt-2.2.2-cp310-cp310-win_amd64.whl.metadata (7.6 kB)
+Collecting grpcio<2.0,>=1.24.3 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading grpcio-1.82.1-cp310-cp310-win_amd64.whl.metadata (3.8 kB)
+Collecting tensorboard~=2.19.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading tensorboard-2.19.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting keras>=3.5.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading keras-3.12.3-py3-none-any.whl.metadata (5.9 kB)
+Collecting numpy (from -r requirements.txt (line 2))
+  Downloading numpy-2.1.3-cp310-cp310-win_amd64.whl.metadata (60 kB)
+Collecting h5py>=3.11.0 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached h5py-3.16.0-cp310-cp310-win_amd64.whl.metadata (3.1 kB)
+Collecting ml-dtypes<1.0.0,>=0.5.1 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached ml_dtypes-0.5.4-cp310-cp310-win_amd64.whl.metadata (9.2 kB)
+Collecting tensorflow-io-gcs-filesystem>=0.23.1 (from tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached tensorflow_io_gcs_filesystem-0.31.0-cp310-cp310-win_amd64.whl.metadata (14 kB)
+Collecting charset_normalizer<4,>=2 (from requests<3,>=2.21.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Downloading charset_normalizer-3.4.9-cp310-cp310-win_amd64.whl.metadata (42 kB)
+Collecting idna<4,>=2.5 (from requests<3,>=2.21.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached idna-3.18-py3-none-any.whl.metadata (6.1 kB)
+Collecting urllib3<3,>=1.26 (from requests<3,>=2.21.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached urllib3-2.7.0-py3-none-any.whl.metadata (6.9 kB)
+Collecting certifi>=2023.5.7 (from requests<3,>=2.21.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached certifi-2026.6.17-py3-none-any.whl.metadata (2.5 kB)
+Collecting markdown>=2.6.8 (from tensorboard~=2.19.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached markdown-3.10.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting tensorboard-data-server<0.8.0,>=0.7.0 (from tensorboard~=2.19.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached tensorboard_data_server-0.7.2-py3-none-any.whl.metadata (1.1 kB)
+Collecting werkzeug>=1.0.1 (from tensorboard~=2.19.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached werkzeug-3.1.8-py3-none-any.whl.metadata (4.0 kB)
+Collecting python-dateutil>=2.8.2 (from pandas->-r requirements.txt (line 3))
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas->-r requirements.txt (line 3))
+  Downloading pytz-2026.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas->-r requirements.txt (line 3))
+  Downloading tzdata-2026.2-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting contourpy>=1.0.1 (from matplotlib->-r requirements.txt (line 4))
+  Using cached contourpy-1.3.2-cp310-cp310-win_amd64.whl.metadata (5.5 kB)
+Collecting cycler>=0.10 (from matplotlib->-r requirements.txt (line 4))
+  Using cached cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib->-r requirements.txt (line 4))
+  Using cached fonttools-4.63.0-cp310-cp310-win_amd64.whl.metadata (121 kB)
+Collecting kiwisolver>=1.3.1 (from matplotlib->-r requirements.txt (line 4))
+  Using cached kiwisolver-1.5.0-cp310-cp310-win_amd64.whl.metadata (5.2 kB)
+Collecting pyparsing>=3 (from matplotlib->-r requirements.txt (line 4))
+  Using cached pyparsing-3.3.2-py3-none-any.whl.metadata (5.8 kB)
+Collecting scipy>=1.8.0 (from scikit-learn->-r requirements.txt (line 6))
+  Using cached scipy-1.15.3-cp310-cp310-win_amd64.whl.metadata (60 kB)
+Collecting joblib>=1.2.0 (from scikit-learn->-r requirements.txt (line 6))
+  Using cached joblib-1.5.3-py3-none-any.whl.metadata (5.5 kB)
+Collecting threadpoolctl>=3.1.0 (from scikit-learn->-r requirements.txt (line 6))
+  Using cached threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Collecting starlette>=0.46.0 (from fastapi->-r requirements.txt (line 10))
+  Using cached starlette-1.3.1-py3-none-any.whl.metadata (6.4 kB)
+Collecting pydantic>=2.9.0 (from fastapi->-r requirements.txt (line 10))
+  Using cached pydantic-2.13.4-py3-none-any.whl.metadata (109 kB)
+Collecting typing-inspection>=0.4.2 (from fastapi->-r requirements.txt (line 10))
+  Using cached typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting annotated-doc>=0.0.2 (from fastapi->-r requirements.txt (line 10))
+  Using cached annotated_doc-0.0.4-py3-none-any.whl.metadata (6.6 kB)
+Collecting click>=7.0 (from uvicorn->-r requirements.txt (line 11))
+  Using cached click-8.4.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting h11>=0.8 (from uvicorn->-r requirements.txt (line 11))
+  Using cached h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting colorama>=0.4 (from pytest->-r requirements.txt (line 16))
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting exceptiongroup>=1 (from pytest->-r requirements.txt (line 16))
+  Using cached exceptiongroup-1.3.1-py3-none-any.whl.metadata (6.7 kB)
+Collecting iniconfig>=1.0.1 (from pytest->-r requirements.txt (line 16))
+  Using cached iniconfig-2.3.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pluggy<2,>=1.5 (from pytest->-r requirements.txt (line 16))
+  Using cached pluggy-1.6.0-py3-none-any.whl.metadata (4.8 kB)
+Collecting pygments>=2.7.2 (from pytest->-r requirements.txt (line 16))
+  Using cached pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting tomli>=1 (from pytest->-r requirements.txt (line 16))
+  Using cached tomli-2.4.1-py3-none-any.whl.metadata (10 kB)
+Collecting notebook (from jupyter->-r requirements.txt (line 17))
+  Downloading notebook-7.6.0-py3-none-any.whl.metadata (10 kB)
+Collecting jupyter-console (from jupyter->-r requirements.txt (line 17))
+  Using cached jupyter_console-6.6.3-py3-none-any.whl.metadata (5.8 kB)
+Collecting nbconvert (from jupyter->-r requirements.txt (line 17))
+  Using cached nbconvert-7.17.1-py3-none-any.whl.metadata (8.4 kB)
+Collecting ipykernel (from jupyter->-r requirements.txt (line 17))
+  Downloading ipykernel-7.3.0-py3-none-any.whl.metadata (4.5 kB)
+Collecting ipywidgets (from jupyter->-r requirements.txt (line 17))
+  Using cached ipywidgets-8.1.8-py3-none-any.whl.metadata (2.4 kB)
+Collecting jupyterlab (from jupyter->-r requirements.txt (line 17))
+  Downloading jupyterlab-4.6.1-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in c:\users\dell\anaconda3\envs\potato_ai\lib\site-packages (from astunparse>=1.6.0->tensorflow==2.19.0->-r requirements.txt (line 1)) (0.47.0)
+Collecting rich (from keras>=3.5.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting namex (from keras>=3.5.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached namex-0.1.0-py3-none-any.whl.metadata (322 bytes)
+Collecting optree (from keras>=3.5.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached optree-0.19.1-cp310-cp310-win_amd64.whl.metadata (32 kB)
+Collecting annotated-types>=0.6.0 (from pydantic>=2.9.0->fastapi->-r requirements.txt (line 10))
+  Using cached annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core==2.46.4 (from pydantic>=2.9.0->fastapi->-r requirements.txt (line 10))
+  Using cached pydantic_core-2.46.4-cp310-cp310-win_amd64.whl.metadata (6.7 kB)
+Collecting anyio<5,>=3.6.2 (from starlette>=0.46.0->fastapi->-r requirements.txt (line 10))
+  Using cached anyio-4.14.1-py3-none-any.whl.metadata (4.6 kB)
+Collecting markupsafe>=2.1.1 (from werkzeug>=1.0.1->tensorboard~=2.19.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached markupsafe-3.0.3-cp310-cp310-win_amd64.whl.metadata (2.8 kB)
+Collecting comm>=0.1.1 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached comm-0.2.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting debugpy>=1.6.5 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading debugpy-1.8.21-cp310-cp310-win_amd64.whl.metadata (1.5 kB)
+Collecting ipython>=7.23.1 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached ipython-8.39.0-py3-none-any.whl.metadata (5.1 kB)
+Collecting jupyter-client>=8.9.0 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading jupyter_client-8.9.1-py3-none-any.whl.metadata (8.5 kB)
+Collecting jupyter-core!=6.0.*,>=5.1 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached jupyter_core-5.9.1-py3-none-any.whl.metadata (1.5 kB)
+Collecting matplotlib-inline>=0.1 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached matplotlib_inline-0.2.2-py3-none-any.whl.metadata (2.4 kB)
+Collecting nest-asyncio2>=1.7.0 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading nest_asyncio2-1.7.2-py3-none-any.whl.metadata (6.3 kB)
+Collecting psutil>=5.7 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached psutil-7.2.2-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting pyzmq>=25 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached pyzmq-27.1.0-cp310-cp310-win_amd64.whl.metadata (6.0 kB)
+Collecting tornado>=6.4.1 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading tornado-6.5.7-cp39-abi3-win_amd64.whl.metadata (2.9 kB)
+Collecting traitlets>=5.4.0 (from ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading traitlets-5.15.1-py3-none-any.whl.metadata (10 kB)
+Collecting decorator (from ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading decorator-5.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting jedi>=0.16 (from ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached jedi-0.20.0-py2.py3-none-any.whl.metadata (23 kB)
+Collecting prompt_toolkit<3.1.0,>=3.0.41 (from ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached prompt_toolkit-3.0.52-py3-none-any.whl.metadata (6.4 kB)
+Collecting stack_data (from ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting wcwidth (from prompt_toolkit<3.1.0,>=3.0.41->ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading wcwidth-0.8.2-py3-none-any.whl.metadata (43 kB)
+Collecting parso<0.9.0,>=0.8.6 (from jedi>=0.16->ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached parso-0.8.7-py2.py3-none-any.whl.metadata (8.2 kB)
+Collecting platformdirs>=2.5 (from jupyter-core!=6.0.*,>=5.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Downloading platformdirs-4.10.0-py3-none-any.whl.metadata (5.5 kB)
+Collecting widgetsnbextension~=4.0.14 (from ipywidgets->jupyter->-r requirements.txt (line 17))
+  Using cached widgetsnbextension-4.0.15-py3-none-any.whl.metadata (1.6 kB)
+Collecting jupyterlab_widgets~=3.0.15 (from ipywidgets->jupyter->-r requirements.txt (line 17))
+  Using cached jupyterlab_widgets-3.0.16-py3-none-any.whl.metadata (20 kB)
+Collecting async-lru>=1.0.0 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached async_lru-2.3.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting httpx<1,>=0.25.0 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting jinja2>=3.0.3 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting jupyter-builder>=1.0.2 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Downloading jupyter_builder-1.0.2-py3-none-any.whl.metadata (7.7 kB)
+Collecting jupyter-lsp>=2.0.0 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jupyter_lsp-2.3.1-py3-none-any.whl.metadata (1.8 kB)
+Collecting jupyter-server<3,>=2.19.0 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Downloading jupyter_server-2.20.0-py3-none-any.whl.metadata (8.5 kB)
+Collecting jupyterlab-server<3,>=2.28.0 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jupyterlab_server-2.28.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting notebook-shim>=0.2 (from jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached notebook_shim-0.2.4-py3-none-any.whl.metadata (4.0 kB)
+Collecting httpcore==1.* (from httpx<1,>=0.25.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+Collecting argon2-cffi>=21.1 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached argon2_cffi-25.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting jupyter-events>=0.11.0 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jupyter_events-0.12.1-py3-none-any.whl.metadata (5.8 kB)
+Collecting jupyter-server-terminals>=0.4.4 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jupyter_server_terminals-0.5.4-py3-none-any.whl.metadata (5.9 kB)
+Collecting nbformat>=5.3.0 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting overrides>=5.0 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting prometheus-client>=0.9 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached prometheus_client-0.25.0-py3-none-any.whl.metadata (2.1 kB)
+Collecting pywinpty!=3.0.4,>=2.0.1 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Downloading pywinpty-3.0.5-cp310-cp310-win_amd64.whl.metadata (5.9 kB)
+Collecting send2trash>=1.8.2 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached send2trash-2.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting terminado>=0.8.3 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached terminado-0.18.1-py3-none-any.whl.metadata (5.8 kB)
+Collecting websocket-client>=1.7 (from jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached websocket_client-1.9.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting babel>=2.10 (from jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached babel-2.18.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting json5>=0.9.0 (from jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Downloading json5-0.15.0-py3-none-any.whl.metadata (37 kB)
+Collecting jsonschema>=4.18.0 (from jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jsonschema-4.26.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting argon2-cffi-bindings (from argon2-cffi>=21.1->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached argon2_cffi_bindings-25.1.0-cp39-abi3-win_amd64.whl.metadata (7.5 kB)
+Collecting attrs>=22.2.0 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached attrs-26.1.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached referencing-0.37.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.25.0 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached rpds_py-0.30.0-cp310-cp310-win_amd64.whl.metadata (4.2 kB)
+Collecting python-json-logger>=2.0.4 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached python_json_logger-4.1.0-py3-none-any.whl.metadata (3.7 kB)
+Collecting pyyaml>=5.3 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached pyyaml-6.0.3-cp310-cp310-win_amd64.whl.metadata (2.4 kB)
+Collecting rfc3339-validator (from jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached rfc3339_validator-0.1.4-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting rfc3986-validator>=0.1.1 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached rfc3986_validator-0.1.1-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting fqdn (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached fqdn-1.5.1-py3-none-any.whl.metadata (1.4 kB)
+Collecting isoduration (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached isoduration-20.11.0-py3-none-any.whl.metadata (5.7 kB)
+Collecting jsonpointer>1.13 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached jsonpointer-3.1.1-py3-none-any.whl.metadata (2.4 kB)
+Collecting rfc3987-syntax>=1.1.0 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached rfc3987_syntax-1.1.0-py3-none-any.whl.metadata (7.7 kB)
+Collecting uri-template (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached uri_template-1.3.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting webcolors>=24.6.0 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached webcolors-25.10.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting beautifulsoup4 (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading beautifulsoup4-4.15.0-py3-none-any.whl.metadata (3.8 kB)
+Collecting bleach!=5.0.0 (from bleach[css]!=5.0.0->nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading bleach-6.4.0-py3-none-any.whl.metadata (32 kB)
+Collecting defusedxml (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Using cached defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting jupyterlab-pygments (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Using cached jupyterlab_pygments-0.3.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting mistune<4,>=2.0.3 (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading mistune-3.3.3-py3-none-any.whl.metadata (1.9 kB)
+Collecting nbclient>=0.5.0 (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading nbclient-0.11.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting pandocfilters>=1.4.1 (from nbconvert->jupyter->-r requirements.txt (line 17))
+  Using cached pandocfilters-1.5.1-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting webencodings (from bleach!=5.0.0->bleach[css]!=5.0.0->nbconvert->jupyter->-r requirements.txt (line 17))
+  Using cached webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting tinycss2>=1.1.0 (from bleach[css]!=5.0.0->nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading tinycss2-1.5.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting fastjsonschema>=2.15 (from nbformat>=5.3.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached fastjsonschema-2.21.2-py3-none-any.whl.metadata (2.3 kB)
+Collecting lark>=1.2.2 (from rfc3987-syntax>=1.1.0->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached lark-1.3.1-py3-none-any.whl.metadata (1.8 kB)
+Collecting cffi>=1.0.1 (from argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Downloading cffi-2.1.0-cp310-cp310-win_amd64.whl.metadata (2.6 kB)
+Collecting pycparser (from cffi>=1.0.1->argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached pycparser-3.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting soupsieve>=1.6.1 (from beautifulsoup4->nbconvert->jupyter->-r requirements.txt (line 17))
+  Downloading soupsieve-2.8.4-py3-none-any.whl.metadata (4.6 kB)
+Collecting arrow>=0.15.0 (from isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.19.0->jupyterlab->jupyter->-r requirements.txt (line 17))
+  Using cached arrow-1.4.0-py3-none-any.whl.metadata (7.7 kB)
+Collecting markdown-it-py>=2.2.0 (from rich->keras>=3.5.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich->keras>=3.5.0->tensorflow==2.19.0->-r requirements.txt (line 1))
+  Using cached mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Collecting executing>=1.2.0 (from stack_data->ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached executing-2.2.1-py2.py3-none-any.whl.metadata (8.9 kB)
+Collecting asttokens>=2.1.0 (from stack_data->ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached asttokens-3.0.1-py3-none-any.whl.metadata (4.9 kB)
+Collecting pure-eval (from stack_data->ipython>=7.23.1->ipykernel->jupyter->-r requirements.txt (line 17))
+  Using cached pure_eval-0.2.3-py3-none-any.whl.metadata (6.3 kB)
+Downloading tensorflow-2.19.0-cp310-cp310-win_amd64.whl (375.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 375.7/375.7 MB 2.0 MB/s  0:03:01
+Downloading numpy-2.1.3-cp310-cp310-win_amd64.whl (12.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.9/12.9 MB 2.2 MB/s  0:00:05
+Downloading grpcio-1.82.1-cp310-cp310-win_amd64.whl (5.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.0/5.0 MB 3.2 MB/s  0:00:01
+Using cached ml_dtypes-0.5.4-cp310-cp310-win_amd64.whl (210 kB)
+Downloading protobuf-5.29.6-cp310-abi3-win_amd64.whl (435 kB)
+Using cached requests-2.34.2-py3-none-any.whl (73 kB)
+Downloading charset_normalizer-3.4.9-cp310-cp310-win_amd64.whl (162 kB)
+Using cached idna-3.18-py3-none-any.whl (65 kB)
+Downloading tensorboard-2.19.0-py3-none-any.whl (5.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.5/5.5 MB 3.0 MB/s  0:00:01
+Using cached tensorboard_data_server-0.7.2-py3-none-any.whl (2.4 kB)
+Using cached typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Using cached urllib3-2.7.0-py3-none-any.whl (131 kB)
+Using cached pandas-2.3.3-cp310-cp310-win_amd64.whl (11.3 MB)
+Using cached matplotlib-3.10.9-cp310-cp310-win_amd64.whl (8.2 MB)
+Using cached seaborn-0.13.2-py3-none-any.whl (294 kB)
+Using cached scikit_learn-1.7.2-cp310-cp310-win_amd64.whl (8.9 MB)
+Downloading opencv_python-5.0.0.93-cp37-abi3-win_amd64.whl (44.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.0/44.0 MB 2.2 MB/s  0:00:20
+Downloading pillow-12.3.0-cp310-cp310-win_amd64.whl (7.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.2/7.2 MB 1.8 MB/s  0:00:03
+Using cached fastapi-0.139.0-py3-none-any.whl (130 kB)
+Downloading uvicorn-0.51.0-py3-none-any.whl (73 kB)
+Using cached python_multipart-0.0.32-py3-none-any.whl (30 kB)
+Using cached python_dotenv-1.2.2-py3-none-any.whl (22 kB)
+Downloading pytest-9.1.1-py3-none-any.whl (386 kB)
+Using cached pluggy-1.6.0-py3-none-any.whl (20 kB)
+Using cached jupyter-1.1.1-py2.py3-none-any.whl (2.7 kB)
+Downloading absl_py-2.5.0-py3-none-any.whl (137 kB)
+Using cached annotated_doc-0.0.4-py3-none-any.whl (5.3 kB)
+Using cached astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Using cached certifi-2026.6.17-py3-none-any.whl (133 kB)
+Using cached click-8.4.2-py3-none-any.whl (119 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Using cached contourpy-1.3.2-cp310-cp310-win_amd64.whl (221 kB)
+Using cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Using cached exceptiongroup-1.3.1-py3-none-any.whl (16 kB)
+Using cached flatbuffers-25.12.19-py2.py3-none-any.whl (26 kB)
+Using cached fonttools-4.63.0-cp310-cp310-win_amd64.whl (1.6 MB)
+Using cached gast-0.7.0-py3-none-any.whl (22 kB)
+Using cached google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Using cached h11-0.16.0-py3-none-any.whl (37 kB)
+Using cached h5py-3.16.0-cp310-cp310-win_amd64.whl (3.2 MB)
+Using cached iniconfig-2.3.0-py3-none-any.whl (7.5 kB)
+Using cached joblib-1.5.3-py3-none-any.whl (309 kB)
+Downloading keras-3.12.3-py3-none-any.whl (1.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.5/1.5 MB 3.4 MB/s  0:00:00
+Using cached kiwisolver-1.5.0-cp310-cp310-win_amd64.whl (73 kB)
+Using cached libclang-18.1.1-py2.py3-none-win_amd64.whl (26.4 MB)
+Using cached markdown-3.10.2-py3-none-any.whl (108 kB)
+Using cached opt_einsum-3.4.0-py3-none-any.whl (71 kB)
+Using cached pydantic-2.13.4-py3-none-any.whl (472 kB)
+Using cached pydantic_core-2.46.4-cp310-cp310-win_amd64.whl (2.1 MB)
+Using cached annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Using cached pygments-2.20.0-py3-none-any.whl (1.2 MB)
+Using cached pyparsing-3.3.2-py3-none-any.whl (122 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading pytz-2026.2-py2.py3-none-any.whl (510 kB)
+Using cached scipy-1.15.3-cp310-cp310-win_amd64.whl (41.3 MB)
+Using cached starlette-1.3.1-py3-none-any.whl (73 kB)
+Using cached anyio-4.14.1-py3-none-any.whl (124 kB)
+Using cached tensorflow_io_gcs_filesystem-0.31.0-cp310-cp310-win_amd64.whl (1.5 MB)
+Using cached termcolor-3.3.0-py3-none-any.whl (7.7 kB)
+Using cached threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Using cached tomli-2.4.1-py3-none-any.whl (14 kB)
+Using cached typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+Downloading tzdata-2026.2-py2.py3-none-any.whl (349 kB)
+Using cached werkzeug-3.1.8-py3-none-any.whl (226 kB)
+Using cached markupsafe-3.0.3-cp310-cp310-win_amd64.whl (15 kB)
+Downloading wrapt-2.2.2-cp310-cp310-win_amd64.whl (80 kB)
+Downloading ipykernel-7.3.0-py3-none-any.whl (120 kB)
+Using cached comm-0.2.3-py3-none-any.whl (7.3 kB)
+Downloading debugpy-1.8.21-cp310-cp310-win_amd64.whl (5.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.3/5.3 MB 2.1 MB/s  0:00:02
+Using cached ipython-8.39.0-py3-none-any.whl (831 kB)
+Using cached prompt_toolkit-3.0.52-py3-none-any.whl (391 kB)
+Using cached jedi-0.20.0-py2.py3-none-any.whl (4.9 MB)
+Using cached parso-0.8.7-py2.py3-none-any.whl (107 kB)
+Downloading jupyter_client-8.9.1-py3-none-any.whl (109 kB)
+Using cached jupyter_core-5.9.1-py3-none-any.whl (29 kB)
+Using cached matplotlib_inline-0.2.2-py3-none-any.whl (9.5 kB)
+Downloading nest_asyncio2-1.7.2-py3-none-any.whl (7.8 kB)
+Downloading platformdirs-4.10.0-py3-none-any.whl (22 kB)
+Using cached psutil-7.2.2-cp37-abi3-win_amd64.whl (137 kB)
+Using cached pyzmq-27.1.0-cp310-cp310-win_amd64.whl (632 kB)
+Downloading tornado-6.5.7-cp39-abi3-win_amd64.whl (451 kB)
+Downloading traitlets-5.15.1-py3-none-any.whl (85 kB)
+Downloading decorator-5.3.1-py3-none-any.whl (10 kB)
+Using cached ipywidgets-8.1.8-py3-none-any.whl (139 kB)
+Using cached jupyterlab_widgets-3.0.16-py3-none-any.whl (914 kB)
+Using cached widgetsnbextension-4.0.15-py3-none-any.whl (2.2 MB)
+Using cached jupyter_console-6.6.3-py3-none-any.whl (24 kB)
+Downloading jupyterlab-4.6.1-py3-none-any.whl (17.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.2/17.2 MB 2.2 MB/s  0:00:07
+Using cached httpx-0.28.1-py3-none-any.whl (73 kB)
+Using cached httpcore-1.0.9-py3-none-any.whl (78 kB)
+Downloading jupyter_server-2.20.0-py3-none-any.whl (393 kB)
+Using cached jupyterlab_server-2.28.0-py3-none-any.whl (59 kB)
+Using cached argon2_cffi-25.1.0-py3-none-any.whl (14 kB)
+Using cached async_lru-2.3.0-py3-none-any.whl (8.4 kB)
+Using cached babel-2.18.0-py3-none-any.whl (10.2 MB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading json5-0.15.0-py3-none-any.whl (36 kB)
+Using cached jsonschema-4.26.0-py3-none-any.whl (90 kB)
+Using cached attrs-26.1.0-py3-none-any.whl (67 kB)
+Using cached jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+Downloading jupyter_builder-1.0.2-py3-none-any.whl (910 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 910.8/910.8 kB 741.3 kB/s  0:00:00
+Using cached jupyter_events-0.12.1-py3-none-any.whl (19 kB)
+Using cached jsonpointer-3.1.1-py3-none-any.whl (7.7 kB)
+Using cached jupyter_lsp-2.3.1-py3-none-any.whl (77 kB)
+Using cached jupyter_server_terminals-0.5.4-py3-none-any.whl (13 kB)
+Using cached nbconvert-7.17.1-py3-none-any.whl (261 kB)
+Downloading mistune-3.3.3-py3-none-any.whl (63 kB)
+Downloading bleach-6.4.0-py3-none-any.whl (165 kB)
+Downloading nbclient-0.11.0-py3-none-any.whl (25 kB)
+Using cached nbformat-5.10.4-py3-none-any.whl (78 kB)
+Using cached fastjsonschema-2.21.2-py3-none-any.whl (24 kB)
+Using cached notebook_shim-0.2.4-py3-none-any.whl (13 kB)
+Using cached overrides-7.7.0-py3-none-any.whl (17 kB)
+Using cached pandocfilters-1.5.1-py2.py3-none-any.whl (8.7 kB)
+Using cached prometheus_client-0.25.0-py3-none-any.whl (64 kB)
+Using cached python_json_logger-4.1.0-py3-none-any.whl (15 kB)
+Downloading pywinpty-3.0.5-cp310-cp310-win_amd64.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 1.7 MB/s  0:00:01
+Using cached pyyaml-6.0.3-cp310-cp310-win_amd64.whl (158 kB)
+Using cached referencing-0.37.0-py3-none-any.whl (26 kB)
+Using cached rfc3986_validator-0.1.1-py2.py3-none-any.whl (4.2 kB)
+Using cached rfc3987_syntax-1.1.0-py3-none-any.whl (8.0 kB)
+Using cached lark-1.3.1-py3-none-any.whl (113 kB)
+Using cached rpds_py-0.30.0-cp310-cp310-win_amd64.whl (235 kB)
+Using cached send2trash-2.1.0-py3-none-any.whl (17 kB)
+Using cached terminado-0.18.1-py3-none-any.whl (14 kB)
+Downloading tinycss2-1.5.1-py3-none-any.whl (28 kB)
+Using cached webcolors-25.10.0-py3-none-any.whl (14 kB)
+Using cached webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Using cached websocket_client-1.9.0-py3-none-any.whl (82 kB)
+Using cached argon2_cffi_bindings-25.1.0-cp39-abi3-win_amd64.whl (31 kB)
+Downloading cffi-2.1.0-cp310-cp310-win_amd64.whl (185 kB)
+Downloading beautifulsoup4-4.15.0-py3-none-any.whl (109 kB)
+Downloading soupsieve-2.8.4-py3-none-any.whl (37 kB)
+Using cached defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Using cached fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Using cached isoduration-20.11.0-py3-none-any.whl (11 kB)
+Using cached arrow-1.4.0-py3-none-any.whl (68 kB)
+Using cached jupyterlab_pygments-0.3.0-py3-none-any.whl (15 kB)
+Using cached namex-0.1.0-py3-none-any.whl (5.9 kB)
+Downloading notebook-7.6.0-py3-none-any.whl (5.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.5/5.5 MB 2.1 MB/s  0:00:02
+Using cached optree-0.19.1-cp310-cp310-win_amd64.whl (327 kB)
+Using cached pycparser-3.0-py3-none-any.whl (48 kB)
+Using cached rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
+Using cached rich-15.0.0-py3-none-any.whl (310 kB)
+Using cached markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+Using cached mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Using cached stack_data-0.6.3-py3-none-any.whl (24 kB)
+Using cached asttokens-3.0.1-py3-none-any.whl (27 kB)
+Using cached executing-2.2.1-py2.py3-none-any.whl (28 kB)
+Using cached pure_eval-0.2.3-py3-none-any.whl (11 kB)
+Using cached uri_template-1.3.0-py3-none-any.whl (11 kB)
+Downloading wcwidth-0.8.2-py3-none-any.whl (323 kB)
+Installing collected packages: webencodings, pytz, pure-eval, namex, libclang, flatbuffers, fastjsonschema, wrapt, widgetsnbextension, websocket-client, webcolors, wcwidth, urllib3, uri-template, tzdata, typing-extensions, traitlets, tornado, tomli, tinycss2, threadpoolctl, termcolor, tensorflow-io-gcs-filesystem, tensorboard-data-server, soupsieve, six, send2trash, rpds-py, rfc3986-validator, pyzmq, pyyaml, pywinpty, python-multipart, python-json-logger, python-dotenv, pyparsing, pygments, pycparser, psutil, protobuf, prometheus-client, pluggy, platformdirs, pillow, parso, pandocfilters, overrides, opt-einsum, numpy, nest-asyncio2, mdurl, markupsafe, markdown, lark, kiwisolver, jupyterlab_widgets, jupyterlab-pygments, jsonpointer, json5, joblib, iniconfig, idna, h11, gast, fqdn, fonttools, executing, defusedxml, decorator, debugpy, cycler, comm, colorama, charset_normalizer, certifi, bleach, babel, attrs, asttokens, annotated-types, annotated-doc, absl-py, werkzeug, typing-inspection, terminado, stack_data, scipy, rfc3987-syntax, rfc3339-validator, requests, referencing, python-dateutil, pydantic-core, prompt_toolkit, optree, opencv-python, ml-dtypes, mistune, matplotlib-inline, markdown-it-py, jupyter-core, jinja2, jedi, httpcore, h5py, grpcio, google-pasta, exceptiongroup, contourpy, click, cffi, beautifulsoup4, async-lru, astunparse, uvicorn, tensorboard, scikit-learn, rich, pytest, pydantic, pandas, matplotlib, jupyter-server-terminals, jupyter-client, jupyter-builder, jsonschema-specifications, ipython, arrow, argon2-cffi-bindings, anyio, starlette, seaborn, keras, jsonschema, isoduration, ipywidgets, ipykernel, httpx, argon2-cffi, tensorflow, nbformat, jupyter-console, fastapi, nbclient, jupyter-events, nbconvert, jupyter-server, notebook-shim, jupyterlab-server, jupyter-lsp, jupyterlab, notebook, jupyter
+Successfully installed absl-py-2.5.0 annotated-doc-0.0.4 annotated-types-0.7.0 anyio-4.14.1 argon2-cffi-25.1.0 argon2-cffi-bindings-25.1.0 arrow-1.4.0 asttokens-3.0.1 astunparse-1.6.3 async-lru-2.3.0 attrs-26.1.0 babel-2.18.0 beautifulsoup4-4.15.0 bleach-6.4.0 certifi-2026.6.17 cdxml-0.7.1 exceptiongroup-1.3.1 executing-2.2.1 fastapi-0.139.0 fastjsonschema-2.21.2 flatbuffers-25.12.19 fonttools-4.63.0 fqdn-1.5.1 gast-0.7.0 google-pasta-0.2.0 grpcio-1.82.1 h11-0.16.0 h5py-3.16.0 httpcore-1.0.9 httpx-0.28.1 idna-3.18 iniconfig-2.3.0 ipykernel-7.3.0 ipython-8.39.0 ipywidgets-8.1.8 isoduration-20.11.0 jedi-0.20.0 jinja2-3.1.6 joblib-1.5.3 json5-0.15.0 jsonpointer-3.1.1 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 jupyter-1.1.1 jupyter-builder-1.0.2 jupyter-client-8.9.1 jupyter-console-6.6.3 jupyter-core-5.9.1 jupyter-events-0.12.1 jupyter-lsp-2.3.1 jupyter-server-2.20.0 jupyter-server-terminals-0.5.4 jupyterlab-4.6.1 jupyterlab-pygments-0.3.0 jupyterlab-server-2.28.0 jupyterlab_widgets-3.0.16 keras-3.12.3 kiwisolver-1.5.0 lark-1.3.1 libclang-18.1.1 markdown-3.10.2 markdown-it-py-4.2.0 markupsafe-3.0.3 matplotlib-3.10.9 matplotlib-inline-0.2.2 mdurl-0.1.2 mistune-3.3.3 ml-dtypes-0.5.4 namex-0.1.0 nbclient-0.11.0 nbconvert-7.17.1 nbformat-7.0 pandas-2.3.3 pandocfilters-1.5.1 parso-0.8.7 pillow-12.3.0 platformdirs-4.10.0 pluggy-1.6.0 prometheus-client-0.25.0 prompt_toolkit-3.0.52 protobuf-5.29.6 psutil-7.2.2 pure-eval-0.2.3 pycparser-3.0 pydantic-2.13.4 pydantic-core-2.46.4 pygments-2.20.0 pyparsing-3.3.2 pytest-9.1.1 python-dateutil-2.9.0.post0 python-dotenv-1.2.2 python-json-logger-4.1.0 python-multipart-0.0.32 pytz-2026.2 pywinpty-3.0.5 pyyaml-6.0.3 pyzmq-27.1.0 referencing-0.37.0 requests-2.34.2 rfc3339-validator-0.1.4 rfc3986-validator-0.1.1 rfc3987-syntax-1.1.0 rich-15.0.0 rpds-py-0.30.0 scikit-learn-1.7.2 scipy-1.15.3 seaborn-0.13.2 send2trash-2.1.0 six-1.17.0 soupsieve-2.8.4 stack_data-0.6.3 starlette-1.3.1 tensorboard.6.0 tinycss2-1.5.1 tomli-2.4.1 tornado-6.5.7 traitlets-5.15.1 typing-extensions-4.16.0 typing-inspection-0.4.2 tzdata-2026.2 uri-template-1.3.0 urllib3-2.7.0 uvicorn-0.51.0 wcwidth-0.8.2 webcolors-25.10.0 webencodings-0.5.1 websocket-client-1.9.0 werkzeug-3.1.8 widgetsnbextension-4.0.15 wrapt-2.2.2
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System>  python -c "import tensorflow as tf; print(tf.__version__)"
+2026-07-10 02:20:29.844855: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 02:20:58.583193: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2.19.0
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python scripts/check_dataset.py
+Traceback (most recent call last):
+  File "F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System\scripts\check_dataset.py", line 1, in <module>
+    from training.dataset import load_datasets
+ModuleNotFoundError: No module named 'training'
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python scripts/check_dataset.py
+2026-07-10 02:43:07.221089: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ON
+2026-07-10 02:43:14.317360: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Found 2152 files belonging to 3 classes.
+Using 1722 files for training.structions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 2152 files belonging to 3 classes.
+Using 430 files for validation.
+
+['Potato___Early_blight', 'Potato___Late_blight', 'Potato___healthy']
+
+Images Shape : (32, 224, 224, 3)
+Labels Shape : (32, 3)
+2026-07-10 02:43:51.675190: I tensorflow/core/framework/local_rendezvous.cc:407] Local rendezvous is aborting with status: OUT_OF_RANGE: End of sequence
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python scripts/check_model.py
+Traceback (most recent call last):dule>
+    from training.model import build_model
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python scripts/check_model.py
+  File "F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System\scripts\check_model.py", line 1, in <module>
+    from training.model import build_model
+ModuleNotFoundError: No module named 'training'
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python-m scripts/check_model.py 
+python-m : The term 'python-m' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling 
+of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ python-m scripts/check_model.py
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (python-m:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python -m scripts/check_model.py
+C:\Users\DEll\anaconda3\envs\potato_ai\python.exe: Error while finding module specification for 'scripts/check_model.py' (ModuleNotFoundError: No module named 'scripts/check_model'). Try using 'scripts/check_model' instead of 'scripts/check_model.py' as the module name.
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python -m scripts/check_model   
+C:\Users\DEll\anaconda3\envs\potato_ai\python.exe: No module named scripts/check_model
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python -m scripts.check_model
+2026-07-10 03:00:11.941060: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:00:20.635717: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:00:41.352842: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Downloading data from https://storage.googleapis.com/keras-applications/efficientnetb0_notop.h5
+Traceback (most recent call last):
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 1303, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 1349, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 1468, in connect
+    super().connect()
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\http\client.py", line 962, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\site-packages\keras\src\utils\file_utils.py", line 395, in get_file
+    urlretrieve(origin, download_target, DLProgbar())
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System\scripts\check_model.py", line 7, in <module>
+    from training.model import build_model
+  File "F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System\training\model.py", line 6, in <module>    base_model = tf.keras.applications.EfficientNetB0(
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\site-packages\keras\src\applications\efficientnet.py", line 571, in EfficientNetB0
+    return EfficientNet(
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\site-packages\keras\src\applications\efficientnet.py", line 428, in EfficientNet
+    weights_path = file_utils.get_file(
+  File "C:\Users\DEll\anaconda3\envs\potato_ai\lib\site-packages\keras\src\utils\file_utils.py", line 399, in get_file
+    raise Exception(error_msg.format(origin, e.errno, e.reason))
+Exception: URL fetch failure on https://storage.googleapis.com/keras-applications/efficientnetb0_notop.h5: None -- [Errno 11001] getaddrinfo failed
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python -m scripts.check_model
+2026-07-10 03:03:54.433371: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:04:00.585621: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:04:16.481434: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Downloading data from https://storage.googleapis.com/keras-applications/efficientnetb0_notop.h5
+16705208/16705208 ━━━━━━━━━━━━━━━━━━━━ 4s 0us/step   
+Model: "functional_1"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+│ input_layer_1 (InputLayer)           │ (None, 224, 224, 3)         │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ data_augmentation (Sequential)       │ (None, 224, 224, 3)         │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ efficientnetb0 (Functional)          │ (None, 7, 7, 1280)          │       4,049,571 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ global_average_pooling2d             │ (None, 1280)                │               0 │
+│ (GlobalAveragePooling2D)             │                             │                 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 1280)                │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 128)                 │         163,968 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense_1 (Dense)                      │ (None, 3)                   │             387 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 4,213,926 (16.07 MB)
+ Trainable params: 164,355 (642.01 KB)
+ Non-trainable params: 4,049,571 (15.45 MB)
+PS F:\artificial-intelligence\Deep-learning\Projects\AI-Powered Potato Disease Detection System> python -m training.train
+2026-07-10 03:07:22.411067: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:07:28.874562: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-07-10 03:07:45.131371: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 2152 files belonging to 3 classes.
+Using 1722 files for training.
+Found 2152 files belonging to 3 classes.
+Using 430 files for validation.
+Epoch 1/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 194s 3s/step - accuracy: 0.8839 - loss: 0.2932 - val_accuracy: 0.9674 - val_loss: 0.0974 - learning_rate: 0.0010
+Epoch 2/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.9744 - loss: 0.0825 - val_accuracy: 0.9372 - val_loss: 0.1624 - learning_rate: 0.0010
+Epoch 3/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 125s 2s/step - accuracy: 0.9774 - loss: 0.0659 - val_accuracy: 0.9884 - val_loss: 0.0449 - learning_rate: 0.0010
+Epoch 4/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 139s 2s/step - accuracy: 0.9779 - loss: 0.0623 - val_accuracy: 0.9837 - val_loss: 0.0482 - learning_rate: 0.0010
+Epoch 5/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 128s 2s/step - accuracy: 0.9779 - loss: 0.0584 - val_accuracy: 0.9837 - val_loss: 0.0523 - learning_rate: 0.0010
+Epoch 6/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 129s 2s/step - accuracy: 0.9855 - loss: 0.0409 - val_accuracy: 0.9884 - val_loss: 0.0445 - learning_rate: 0.0010
+Epoch 7/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 133s 2s/step - accuracy: 0.9832 - loss: 0.0457 - val_accuracy: 0.9791 - val_loss: 0.0493 - learning_rate: 0.0010
+Epoch 8/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 201s 4s/step - accuracy: 0.9872 - loss: 0.0341 - val_accuracy: 0.9860 - val_loss: 0.0408 - learning_rate: 0.0010
+Epoch 9/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 172s 3s/step - accuracy: 0.9803 - loss: 0.0437 - val_accuracy: 0.9907 - val_loss: 0.0368 - learning_rate: 0.0010
+Epoch 10/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 242s 5s/step - accuracy: 0.9884 - loss: 0.0311 - val_accuracy: 0.9907 - val_loss: 0.0543 - learning_rate: 0.0010
+Epoch 11/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 224s 4s/step - accuracy: 0.9872 - loss: 0.0370 - val_accuracy: 0.9907 - val_loss: 0.0402 - learning_rate: 0.0010
+Epoch 12/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 227s 4s/step - accuracy: 0.9808 - loss: 0.0510 - val_accuracy: 0.9814 - val_loss: 0.0599 - learning_rate: 0.0010
+Epoch 13/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 214s 4s/step - accuracy: 0.9919 - loss: 0.0270 - val_accuracy: 0.9884 - val_loss: 0.0500 - learning_rate: 2.0000e-04
+Epoch 14/15
+54/54 ━━━━━━━━━━━━━━━━━━━━ 220s 4s/step - accuracy: 0.9913 - loss: 0.0248 - val_accuracy: 0.9884 - val_loss: 0.0455 - learning_rate: 2.0000e-04
+
+Training completed successfully.
+Model saved to models/potato_disease_model.keras
